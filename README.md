@@ -63,7 +63,7 @@ The challenge is to create a program that meets the following requirements:
 
 ---
 
-# Technical Assignment Challenge: Dart Utilities
+# Dart Utilities Assignment
 
 The challenge consists of the following tasks:
 
